@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rsaniei
 - 👀 I’m interested in web development, React, Node.JS, and MongoDB!
+- 👀 I'm now investigating "creative coding" => how to create art by coding!
 - 📫 How to reach me: @saniei.r@gmail.com
 
 <!---
